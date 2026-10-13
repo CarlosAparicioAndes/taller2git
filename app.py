@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-#prueba de rama carlos-viz
+#prueba despues delas ramas
 
 app = dash.Dash(
     __name__,
