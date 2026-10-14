@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-#prueba despues delas ramas
+# Cambio hecho por la cuenta B (colaborador)
 
 app = dash.Dash(
     __name__,
